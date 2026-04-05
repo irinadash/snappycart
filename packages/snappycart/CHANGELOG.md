@@ -1,5 +1,24 @@
 # snappycart
 
+## 1.2.3
+
+### Patch Changes
+
+- e11274d: Republish package metadata & npm release.
+- b8cbd0d: Republish package metadata & npm readme.
+
+## 1.2.2
+
+### Patch Changes
+
+- 278e999: Add contributor onboarding documentation for snappycart.
+
+## 1.2.1
+
+### Patch Changes
+
+- 3dd66df: Update security policy for snappycart & add contact info of the maintainer.
+
 ## 1.2.0
 
 ### Highlights
